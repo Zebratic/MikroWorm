@@ -1,0 +1,15 @@
+D:\Work\MikroWorm\MikroWorm\bin\Debug\net6.0\MikroWorm.exe
+D:\Work\MikroWorm\MikroWorm\bin\Debug\net6.0\MikroWorm.deps.json
+D:\Work\MikroWorm\MikroWorm\bin\Debug\net6.0\MikroWorm.runtimeconfig.json
+D:\Work\MikroWorm\MikroWorm\bin\Debug\net6.0\MikroWorm.dll
+D:\Work\MikroWorm\MikroWorm\bin\Debug\net6.0\MikroWorm.pdb
+D:\Work\MikroWorm\MikroWorm\obj\Debug\net6.0\MikroWorm.csproj.AssemblyReference.cache
+D:\Work\MikroWorm\MikroWorm\obj\Debug\net6.0\MikroWorm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\MikroWorm\MikroWorm\obj\Debug\net6.0\MikroWorm.AssemblyInfoInputs.cache
+D:\Work\MikroWorm\MikroWorm\obj\Debug\net6.0\MikroWorm.AssemblyInfo.cs
+D:\Work\MikroWorm\MikroWorm\obj\Debug\net6.0\MikroWorm.csproj.CoreCompileInputs.cache
+D:\Work\MikroWorm\MikroWorm\obj\Debug\net6.0\MikroWorm.dll
+D:\Work\MikroWorm\MikroWorm\obj\Debug\net6.0\refint\MikroWorm.dll
+D:\Work\MikroWorm\MikroWorm\obj\Debug\net6.0\MikroWorm.pdb
+D:\Work\MikroWorm\MikroWorm\obj\Debug\net6.0\MikroWorm.genruntimeconfig.cache
+D:\Work\MikroWorm\MikroWorm\obj\Debug\net6.0\ref\MikroWorm.dll
