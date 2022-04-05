@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "yRwQiA6AcxjH6nT+wKHMrze3CubK25cC3IHDI6pTGa7PM5Ra0GCSXHxfV3I2AnMHV6/ep/3ATaVAD3h7Wbu+XQ==",
+  "dgSpecHash": "KvhEBTtDQ5y5SKK9G/uBUqqg8TFjV5SMDZG5A1Z7hEbr32+BzXACz9i1f23q7RqyESFg7urXPcjIZOFh572UiQ==",
   "success": true,
-  "projectFilePath": "D:\\Work\\MikroWorm\\MikroWorm\\MikroWorm.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Work\\MikroWorm\\MikroWorm\\MikroWorm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alex7\\.nuget\\packages\\ssh.net\\2020.0.1\\ssh.net.2020.0.1.nupkg.sha512",
+    "C:\\Users\\alex7\\.nuget\\packages\\sshnet.security.cryptography\\1.3.0\\sshnet.security.cryptography.1.3.0.nupkg.sha512"
+  ],
   "logs": []
 }
