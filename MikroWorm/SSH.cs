@@ -41,7 +41,7 @@ namespace MikroWorm
             try
             {
                 ssh.Client = new SshClient(ssh.IP, 22, ssh.Username, ssh.Password);
-                ssh.Client.ConnectionInfo.Timeout = TimeSpan.FromSeconds(60);
+                ssh.Client.ConnectionInfo.Timeout = TimeSpan.FromMilliseconds(Convert.ToInt32(Program.settings.Connection_Timeout));
                 ssh.Client.Connect();
                 ssh.Shell = ssh.Client.CreateShellStream("vt-100", 80, 60, 800, 600, 65536);
 
@@ -50,8 +50,7 @@ namespace MikroWorm
 
                 return ssh.Client.IsConnected;
             }
-            catch (Renci.SshNet.Common.SshAuthenticationException ex) { BetterConsole.WriteMinus($"{ssh.Username}@{ssh.IP}: {ex.Message}"); return false; }
-            catch (Exception ex) { BetterConsole.WriteMinus($"{ssh.Username}@{ssh.IP}: {ex}"); return false; }
+            catch (Exception ex) { BetterConsole.WriteMinus($"{ssh.Username}@{ssh.IP}: {ex.Message}"); return false; }
         }
 
         public static void SendCMD(this SSH ssh, string cmd)

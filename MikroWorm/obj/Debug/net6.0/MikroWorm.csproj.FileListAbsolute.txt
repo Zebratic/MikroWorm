@@ -31,3 +31,7 @@ C:\Work\MikroWorm\MikroWorm\obj\Debug\net6.0\MikroWorm.dll
 C:\Work\MikroWorm\MikroWorm\obj\Debug\net6.0\ref\MikroWorm.dll
 C:\Work\MikroWorm\MikroWorm\obj\Debug\net6.0\MikroWorm.pdb
 C:\Work\MikroWorm\MikroWorm\obj\Debug\net6.0\MikroWorm.genruntimeconfig.cache
+D:\Work\MikroWorm\MikroWorm\bin\Debug\net6.0\Renci.SshNet.dll
+D:\Work\MikroWorm\MikroWorm\bin\Debug\net6.0\SshNet.Security.Cryptography.dll
+D:\Work\MikroWorm\MikroWorm\obj\Debug\net6.0\MikroWorm.csproj.CopyComplete
+D:\Work\MikroWorm\MikroWorm\bin\Debug\net6.0\Newtonsoft.Json.dll
